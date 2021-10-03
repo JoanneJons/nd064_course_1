@@ -4,5 +4,6 @@ description: Deploy multiple Nginx applications
 keywords:
 - nginx
 version: 1.0.0
+maintainers:
 - name: joannejons
   email: joannejons@xyz
